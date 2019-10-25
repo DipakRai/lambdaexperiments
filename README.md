@@ -1,1 +1,1 @@
-# lambdaexperiments
+Includes a number of sample code from varying technical backgrounds in the Java stack, i.e threads, string, datastructure, leetcode, hackerrank...archived to refer off and on. And to remind that I was there!
